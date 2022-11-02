@@ -1,4 +1,8 @@
 """
+In this Kata, we are going to reverse a string while maintaining the spaces (if any) in their original place.
+"""
+
+"""
 def solve(s):
     result = [char for char in s[::-1] if char != ' ']
     for i in range(len(s)):
