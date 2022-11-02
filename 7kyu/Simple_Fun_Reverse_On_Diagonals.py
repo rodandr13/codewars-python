@@ -3,6 +3,7 @@ import copy
 
 def reverse_on_diagonals(matrix):
     result = copy.deepcopy(matrix)
+    # result = [row[:] for row in matrix]
     for i in range(len(matrix)):
         result[i][i] = matrix[-i-1][-i-1]
         result[i][-i-1] = matrix[-i-1][i]
