@@ -8,6 +8,7 @@
 - [Logic Drills: Graceful addition](https://github.com/rodandr13/codewars/blob/main/7kyu/Thinkful_Logic_Drills_Graceful_addition.py)
 - [Highest and Lowest](https://github.com/rodandr13/codewars/blob/main/7kyu/Highest_and_Lowest.py)
 - [Find the volume of a Cone](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_the_volume_of_a_Cone.py)
+- [Anagram Detection](https://github.com/rodandr13/codewars/blob/main/7kyu/Anagram_Detection.py)
 
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
