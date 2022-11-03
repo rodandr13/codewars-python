@@ -9,7 +9,7 @@ from math import pi
 
 
 def volume(r,h):
-    return int(0.3333333 * pi * (r ** 2) * h)
+    return pi * (r ** 2) * h // 3
 
 
 assert volume(7,3) == 153
