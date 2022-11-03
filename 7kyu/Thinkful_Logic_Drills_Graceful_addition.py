@@ -11,7 +11,7 @@ the sum. If adding the arguments together would raise an error the function shou
 def my_add(a, b):
     try:
         return a + b
-    except:
+    except TypeError:
         return None
 
 
