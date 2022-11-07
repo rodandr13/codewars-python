@@ -12,3 +12,9 @@
 
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
+- [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
+- [Fix the function](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Basic_Function_Fixer.py)
+- [Keep Hydrated](https://github.com/rodandr13/codewars/blob/main/8kyu/Keep_Hydrated.py)
+- [Keep up the hoop](https://github.com/rodandr13/codewars/blob/main/8kyu/Keep_up_the_hoop.py)
+- [Opposites Attract](https://github.com/rodandr13/codewars/blob/main/8kyu/Opposites_Attract.py)
+- [Will you make it](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
