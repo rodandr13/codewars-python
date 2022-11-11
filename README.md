@@ -9,7 +9,10 @@
 - [Highest and Lowest](https://github.com/rodandr13/codewars/blob/main/7kyu/Highest_and_Lowest.py)
 - [Find the volume of a Cone](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_the_volume_of_a_Cone.py)
 - [Anagram Detection](https://github.com/rodandr13/codewars/blob/main/7kyu/Anagram_Detection.py)
-
+- [Simple Fun #63: Shape Area](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Shape_Area.py)
+- [2D list by the sequential integers](https://github.com/rodandr13/codewars/blob/main/7kyu/2D_list_by_the_sequential_integers.py)
+- [Find the missing element between two arrays](https://github.com/rodandr13/codewars/blob/main/7kyu/Find_the_missing_element_between_two_arrays.py)
+- [See You Next Happy Year](https://github.com/rodandr13/codewars/blob/main/7kyu/See_You_Next_Happy_Year.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
@@ -18,3 +21,4 @@
 - [Keep up the hoop](https://github.com/rodandr13/codewars/blob/main/8kyu/Keep_up_the_hoop.py)
 - [Opposites Attract](https://github.com/rodandr13/codewars/blob/main/8kyu/Opposites_Attract.py)
 - [Will you make it](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
+- [Grasshopper - Bug Squashing](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Bug_Squashing.py)
