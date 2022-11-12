@@ -13,6 +13,10 @@
 - [2D list by the sequential integers](https://github.com/rodandr13/codewars/blob/main/7kyu/2D_list_by_the_sequential_integers.py)
 - [Find the missing element between two arrays](https://github.com/rodandr13/codewars/blob/main/7kyu/Find_the_missing_element_between_two_arrays.py)
 - [See You Next Happy Year](https://github.com/rodandr13/codewars/blob/main/7kyu/See_You_Next_Happy_Year.py)
+- [Difference between two collections](https://github.com/rodandr13/codewars/blob/main/7kyu/Difference_between_two_collections.py)
+- [Global estimates](https://github.com/rodandr13/codewars/blob/main/7kyu/Global_estimates.py)
+- [Some stereometry](https://github.com/rodandr13/codewars/blob/main/7kyu/Some_stereometry.py)
+- [Sort arrays - 1](https://github.com/rodandr13/codewars/blob/main/7kyu/Sort_arrays_1.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
