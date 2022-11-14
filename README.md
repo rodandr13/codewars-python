@@ -1,5 +1,7 @@
 # Codewars
 
+### 6 kyu
+- [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
@@ -17,6 +19,8 @@
 - [Global estimates](https://github.com/rodandr13/codewars/blob/main/7kyu/Global_estimates.py)
 - [Some stereometry](https://github.com/rodandr13/codewars/blob/main/7kyu/Some_stereometry.py)
 - [Sort arrays - 1](https://github.com/rodandr13/codewars/blob/main/7kyu/Sort_arrays_1.py)
+- [Spoonerize Me](https://github.com/rodandr13/codewars/blob/main/7kyu/Spoonerize_Me.py)
+- [Categorize New Member](https://github.com/rodandr13/codewars/blob/main/7kyu/Categorize_New_Member.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
