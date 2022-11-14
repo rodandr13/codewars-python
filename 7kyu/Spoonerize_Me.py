@@ -8,10 +8,16 @@ first letters of each word are swapped:
 "not picking" --> "pot nicking"
 """
 
-
+"""
 def spoonerize(words):
     words = words.split()
     return words[1][:1] + words[0][1:] + " " + words[0][:1] + words[1][1:]
+"""
+
+
+def spoonerize(words):
+    a, b = words.split()
+    return f"{b[0]}{a[1:]} {a[0]}{b[1:]}"
 
 
 assert spoonerize("nit picking") == "pit nicking"
