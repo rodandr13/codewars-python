@@ -1,4 +1,5 @@
 # Codewars
+![IMAGE_DESCRIPTION](https://www.codewars.com/users/roditelev/badges/large?theme=light)
 ### 5 kyu
 - [Moving Zeros To The End](https://github.com/rodandr13/codewars/blob/main/5kyu/Moving_Zeros_To_The_End.py)
 ### 6 kyu
