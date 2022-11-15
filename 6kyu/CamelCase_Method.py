@@ -8,9 +8,14 @@ camelcase("hello case") => HelloCase
 camelcase("camel case word") => CamelCaseWord
 """
 
-
+"""
 def camel_case(string):
     return "".join(map(str.title, string.split()))
+"""
+
+
+def camel_case(string):
+    return string.title().replace(" ", "")
 
 
 assert camel_case("test case") == "TestCase"
