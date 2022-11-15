@@ -1,5 +1,6 @@
 # Codewars
-
+### 5 kyu
+- [Moving Zeros To The End](https://github.com/rodandr13/codewars/blob/main/5kyu/Moving_Zeros_To_The_End.py)
 ### 6 kyu
 - [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
 ### 7 kyu
