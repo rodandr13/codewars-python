@@ -24,6 +24,10 @@
 - [Sort arrays - 1](https://github.com/rodandr13/codewars/blob/main/7kyu/Sort_arrays_1.py)
 - [Spoonerize Me](https://github.com/rodandr13/codewars/blob/main/7kyu/Spoonerize_Me.py)
 - [Categorize New Member](https://github.com/rodandr13/codewars/blob/main/7kyu/Categorize_New_Member.py)
+- [Especially Joyful Numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Especially_Joyful_Numbers.py)
+- [Vowel one](https://github.com/rodandr13/codewars/blob/main/7kyu/Vowel_one.py)
+- [Squares sequence](https://github.com/rodandr13/codewars/blob/main/7kyu/Squares_sequence.py)
+- [Growth of a Population](Growth of a Population)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
