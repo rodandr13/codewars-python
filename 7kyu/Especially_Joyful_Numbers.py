@@ -7,6 +7,14 @@ We are interested in Harshad numbers where the product of its digit sum s and
 s with the digits reversed, gives the original number n.
 """
 
+"""
+def numberJoy(n):
+    d_sum = sum(map(int, str(n)))
+    d_sum_reverse = int(str(d_sum)[::-1])
+    
+    return n == d_sum * d_sum_reverse
+"""
+
 
 def number_joy(n):
     numbers = [int(i) for i in str(n)]
