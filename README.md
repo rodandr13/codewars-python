@@ -28,6 +28,12 @@
 - [Vowel one](https://github.com/rodandr13/codewars/blob/main/7kyu/Vowel_one.py)
 - [Squares sequence](https://github.com/rodandr13/codewars/blob/main/7kyu/Squares_sequence.py)
 - [Growth of a Population](Growth of a Population)
+- [shorter concat \[reverse longer\]](https://github.com/rodandr13/codewars/blob/main/7kyu/shorter_concat_reverse_longer.py)
+- [Debug Sum of Digits of a Number](https://github.com/rodandr13/codewars/blob/main/7kyu/Car_Crash.py)
+- [Car Crash! ==== O='`o](https://github.com/rodandr13/codewars/blob/main/7kyu/Car_Crash.py)
+- [Exes and Ohs](https://github.com/rodandr13/codewars/blob/main/7kyu/Exes_and_Ohs.py)
+- [Hexadecimal Keys](https://github.com/rodandr13/codewars/blob/main/7kyu/Hexadecimal_Keys.py)
+- [esreveR](https://github.com/rodandr13/codewars/blob/main/7kyu/esreveR.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
