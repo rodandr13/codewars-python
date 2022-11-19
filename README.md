@@ -3,8 +3,11 @@
 ### 5 kyu
 - [Moving Zeros To The End](https://github.com/rodandr13/codewars/blob/main/5kyu/Moving_Zeros_To_The_End.py)
 ### 6 kyu
-- [CamelCase Method]()
+- [CamelCase Method](https://github.com/rodandr13/codewars/blob/main/6kyu/CamelCase_Method.py)
 - [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
+- [Multiplication table](https://github.com/rodandr13/codewars/blob/main/6kyu/Multiplication_table.py)
+- [Manhattan Distance](https://github.com/rodandr13/codewars/blob/main/6kyu/Manhattan_Distance.py)
+- [Basics 03: Strings, Numbers and Calculation](https://github.com/rodandr13/codewars/blob/main/6kyu/Basics_03_Strings_Numbers_and_Calculation.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
@@ -45,6 +48,7 @@
 - [Converting Currency II](https://github.com/rodandr13/codewars/blob/main/7kyu/Converting_Currency_II.py)
 - [Simple Fun #40: Timed Reading](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_40_Timed_Reading.py)
 - [Volume of a cup](https://github.com/rodandr13/codewars/blob/main/7kyu/Volume_of_a_cup.py)
+- [Sum of odd numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_of_odd_numbers.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
