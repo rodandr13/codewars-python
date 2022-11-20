@@ -8,6 +8,18 @@ At least one character ("" is not valid)
 Allowed characters are uppercase / lowercase latin letters and digits from 0 to 9
 No whitespaces / underscore
 """
+"""
+def alphanumeric(string):
+    return string.isalnum()
+"""
+"""
+import re
+
+pattern = re.compile('^[0-9a-zA-Z]+$')
+
+def alphanumeric(string):
+  return pattern.match(string) is not None
+"""
 
 
 def alphanumeric(password):
