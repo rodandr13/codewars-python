@@ -20,7 +20,10 @@ pattern = re.compile('^[0-9a-zA-Z]+$')
 def alphanumeric(string):
   return pattern.match(string) is not None
 """
-
+"""
+def alphanumeric(string):
+    return bool(re.search(r'^[0-9a-zA-Z]+$', string))
+"""
 
 def alphanumeric(password):
     if not password:
