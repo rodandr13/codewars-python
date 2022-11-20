@@ -2,12 +2,15 @@
 ![IMAGE_DESCRIPTION](https://www.codewars.com/users/roditelev/badges/large?theme=light)
 ### 5 kyu
 - [Moving Zeros To The End](https://github.com/rodandr13/codewars/blob/main/5kyu/Moving_Zeros_To_The_End.py)
+- [Not very secure](https://github.com/rodandr13/codewars/blob/main/5kyu/Not_very_secure.py)
+- [PaginationHelper](https://github.com/rodandr13/codewars/blob/main/5kyu/PaginationHelper.py)
 ### 6 kyu
 - [CamelCase Method](https://github.com/rodandr13/codewars/blob/main/6kyu/CamelCase_Method.py)
 - [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
 - [Multiplication table](https://github.com/rodandr13/codewars/blob/main/6kyu/Multiplication_table.py)
 - [Manhattan Distance](https://github.com/rodandr13/codewars/blob/main/6kyu/Manhattan_Distance.py)
 - [Basics 03: Strings, Numbers and Calculation](https://github.com/rodandr13/codewars/blob/main/6kyu/Basics_03_Strings_Numbers_and_Calculation.py)
+- [Array Exchange](https://github.com/rodandr13/codewars/blob/main/6kyu/Array_Exchange.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
