@@ -11,6 +11,8 @@
 - [Manhattan Distance](https://github.com/rodandr13/codewars/blob/main/6kyu/Manhattan_Distance.py)
 - [Basics 03: Strings, Numbers and Calculation](https://github.com/rodandr13/codewars/blob/main/6kyu/Basics_03_Strings_Numbers_and_Calculation.py)
 - [Array Exchange](https://github.com/rodandr13/codewars/blob/main/6kyu/Array_Exchange.py)
+- [N-th Fibonacci](https://github.com/rodandr13/codewars/blob/main/6kyu/N_th_Fibonacci.py)
+- [Surrounding Primes for a value](https://github.com/rodandr13/codewars/blob/main/6kyu/Surrounding_Primes_for_a_value.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
@@ -33,7 +35,7 @@
 - [Especially Joyful Numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Especially_Joyful_Numbers.py)
 - [Vowel one](https://github.com/rodandr13/codewars/blob/main/7kyu/Vowel_one.py)
 - [Squares sequence](https://github.com/rodandr13/codewars/blob/main/7kyu/Squares_sequence.py)
-- [Growth of a Population](Growth of a Population)
+- [Growth of a Population](https://github.com/rodandr13/codewars/blob/main/7kyu/Growth_of_a_Population.py)
 - [shorter concat \[reverse longer\]](https://github.com/rodandr13/codewars/blob/main/7kyu/shorter_concat_reverse_longer.py)
 - [Debug Sum of Digits of a Number](https://github.com/rodandr13/codewars/blob/main/7kyu/Car_Crash.py)
 - [Car Crash! ==== O='`o](https://github.com/rodandr13/codewars/blob/main/7kyu/Car_Crash.py)
@@ -52,6 +54,7 @@
 - [Simple Fun #40: Timed Reading](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_40_Timed_Reading.py)
 - [Volume of a cup](https://github.com/rodandr13/codewars/blob/main/7kyu/Volume_of_a_cup.py)
 - [Sum of odd numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_of_odd_numbers.py)
+- [Multiples and Digit Sums](https://github.com/rodandr13/codewars/blob/main/7kyu/Multiples_and_Digit_Sums.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
