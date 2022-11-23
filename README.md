@@ -136,3 +136,8 @@
 - [Parse float](https://github.com/rodandr13/codewars/blob/main/8kyu/Parse_float.py)
 - [Generate range of integers](https://github.com/rodandr13/codewars/blob/main/8kyu/Generate_range_of_integers.py)
 - [A Needle in the Haystack](https://github.com/rodandr13/codewars/blob/main/8kyu/A_Needle_in_the_Haystack.py)
+- [Difference of Volumes of Cuboids](https://github.com/rodandr13/codewars/blob/main/8kyu/Difference_of_Volumes_of_Cuboids.py)
+- [Opposite number](https://github.com/rodandr13/codewars/blob/main/8kyu/Opposite_number.py)
+- [Abbreviate a Two Word Name](https://github.com/rodandr13/codewars/blob/main/8kyu/Abbreviate_a_Two_Word_Name.py)
+- [Is your period late?](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_your_period_late.py)
+- [get ascii value of character](https://github.com/rodandr13/codewars/blob/main/8kyu/get_ascii_value_of_character.py)
