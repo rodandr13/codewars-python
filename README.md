@@ -129,7 +129,7 @@
 - [Filling an array (part 1)](https://github.com/rodandr13/codewars/blob/main/8kyu/Filling_an_array_part_1.py)
 - [Grasshopper - Summation](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Summation.py)
 - [Find Maximum and Minimum Values of a List](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_Maximum_and_Minimum_Values_of_a_List.py)
-- [Pythagorean Triple](Pythagorean)
+- [Pythagorean Triple](https://github.com/rodandr13/codewars/blob/main/8kyu/Pythagorean_Triple.py)
 - [Find Multiples of a Number](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_Multiples_of_a_Number.py)
 - [Array plus array](https://github.com/rodandr13/codewars/blob/main/8kyu/Array_plus_array.py)
 - [Find the position!](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_the_position.py)
