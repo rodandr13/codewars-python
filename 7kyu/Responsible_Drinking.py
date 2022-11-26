@@ -6,6 +6,11 @@ Your fellow coders have bought you several drinks tonight in the form of
 a string. Return a string suggesting how many glasses of water you should
 drink to not be hungover.
 """
+"""
+def hydrate(drink_string): 
+    c=sum(int(c) for c in drink_string if c.isdigit())
+    return "{} {} of water".format(c,'glass') if c==1 else "{} {} of water".format(c,'glasses')
+"""
 
 
 def hydrate(drink_string):
