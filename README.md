@@ -13,6 +13,10 @@
 - [Array Exchange](https://github.com/rodandr13/codewars/blob/main/6kyu/Array_Exchange.py)
 - [N-th Fibonacci](https://github.com/rodandr13/codewars/blob/main/6kyu/N_th_Fibonacci.py)
 - [Surrounding Primes for a value](https://github.com/rodandr13/codewars/blob/main/6kyu/Surrounding_Primes_for_a_value.py)
+- [Find the odd int](https://github.com/rodandr13/codewars/blob/main/6kyu/Find_the_odd_int.py)
+- [Multiples of 3 or 5](https://github.com/rodandr13/codewars/blob/main/6kyu/Multiples_of_3_or_5.py)
+- [Equal Sides Of An Array](https://github.com/rodandr13/codewars/blob/main/6kyu/Equal_Sides_Of_An_Array.py)
+- [Reach Me and Sum my Digits](https://github.com/rodandr13/codewars/blob/main/6kyu/Reach_Me_and_Sum_my_Digits.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
