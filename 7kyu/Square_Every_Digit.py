@@ -7,6 +7,10 @@ because 92 is 81 and 12 is 1.
 
 Note: The function accepts an integer and returns an integer
 """
+"""
+def square_digits(num):
+    return int(''.join(str(int(d)**2) for d in str(num)))
+"""
 
 
 def square_digits(num):
