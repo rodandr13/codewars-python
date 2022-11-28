@@ -12,6 +12,16 @@ wbst s fr lsrs LL!".
 
 Note: for this kata y isn't considered a vowel.
 """
+"""
+def disemvowel(s):
+    for i in "aeiouAEIOU":
+        s = s.replace(i,'')
+    return s
+"""
+"""
+def disemvowel(string):
+    return "".join(c for c in string if c.lower() not in "aeiou")
+"""
 
 
 def disemvowel(string_):
