@@ -67,6 +67,13 @@
 - [Next Palindromic Number.](https://github.com/rodandr13/codewars/blob/main/7kyu/Next_Palindromic_Number.py)
 - [Square Every Digit](https://github.com/rodandr13/codewars/blob/main/7kyu/Square_Every_Digit.py)
 - [Disemvowel Trolls](https://github.com/rodandr13/codewars/blob/main/7kyu/Disemvowel_Trolls.py)
+- [Greatest common divisor](https://github.com/rodandr13/codewars/blob/main/7kyu/Greatest_common_divisor.py)
+- [How many points did the teams from Los Angeles score?](https://github.com/rodandr13/codewars/blob/main/7kyu/How_many_points_did_the_teams_from_Los_Angeles_score.py)
+- [Vowel Count](https://github.com/rodandr13/codewars/blob/main/7kyu/Vowel_Count.py)
+- [Find the smallest power higher than a given a value](https://github.com/rodandr13/codewars/blob/main/7kyu/Find_the_smallest_power_higher_than_a_given_a_value.py)
+- [String to integer conversion](https://github.com/rodandr13/codewars/blob/main/7kyu/String_to_integer_conversion.py)
+- [Initialize my name](https://github.com/rodandr13/codewars/blob/main/7kyu/Initialize_my_name.py)
+- [Thinkful - List and Loop Drills: Lists of lists](https://github.com/rodandr13/codewars/blob/main/7kyu/Thinkful_List_and_Loop_Drills_Lists_of_lists.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
