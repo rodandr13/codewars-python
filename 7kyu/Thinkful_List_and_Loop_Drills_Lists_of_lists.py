@@ -12,6 +12,13 @@ and then returns the product of all the processed sub-lists: -3 * -1 * 1 --> 3.
 For input, you can trust that neither the main list nor the sublists will
 be empty.
 """
+"""
+def process_data(data):
+    r = 1
+    for d in data:
+        r *= d[0] - d[1]
+    return r
+"""
 
 
 def process_data(data):
