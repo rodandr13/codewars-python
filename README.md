@@ -74,6 +74,7 @@
 - [String to integer conversion](https://github.com/rodandr13/codewars/blob/main/7kyu/String_to_integer_conversion.py)
 - [Initialize my name](https://github.com/rodandr13/codewars/blob/main/7kyu/Initialize_my_name.py)
 - [Thinkful - List and Loop Drills: Lists of lists](https://github.com/rodandr13/codewars/blob/main/7kyu/Thinkful_List_and_Loop_Drills_Lists_of_lists.py)
+- [Coding 3min: Bug in Apple](https://github.com/rodandr13/codewars/blob/main/7kyu/Coding_3min_Bug_in_Apple.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
@@ -162,3 +163,6 @@
 - [get ascii value of character](https://github.com/rodandr13/codewars/blob/main/8kyu/get_ascii_value_of_character.py)
 - [You're a square!](https://github.com/rodandr13/codewars/blob/main/7kyu/You_re_a_square.py)
 - [Isograms](https://github.com/rodandr13/codewars/blob/main/7kyu/Isograms.py)
+- [Grasshopper - Debug sayHello]()
+- [Regular Ball Super Ball]()
+- [Return to Sanity]()
