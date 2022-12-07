@@ -5,8 +5,7 @@ What's wrong?
 
 
 def mystery():
-    results = {
+    return {
         'sanity': 'Hello'
     }
-    return results
 
