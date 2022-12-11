@@ -77,6 +77,11 @@
 - [Initialize my name](https://github.com/rodandr13/codewars/blob/main/7kyu/Initialize_my_name.py)
 - [Thinkful - List and Loop Drills: Lists of lists](https://github.com/rodandr13/codewars/blob/main/7kyu/Thinkful_List_and_Loop_Drills_Lists_of_lists.py)
 - [Coding 3min: Bug in Apple](https://github.com/rodandr13/codewars/blob/main/7kyu/Coding_3min_Bug_in_Apple.py)
+- [Strange principal](https://github.com/rodandr13/codewars/blob/main/7kyu/Strange_principal.py)
+- [Survive the attack](https://github.com/rodandr13/codewars/blob/main/7kyu/Survive_the_attack.py)
+- [Beginner Series #3 Sum of Numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Beginner_Series_3_Sum_of_Numbers.py)
+- [Powers of i](https://github.com/rodandr13/codewars/blob/main/7kyu/Powers_of_i.py)
+- [Deutschstunde](https://github.com/rodandr13/codewars/blob/main/7kyu/Deutschstunde.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
@@ -169,3 +174,6 @@
 - [Regular Ball Super Ball](https://github.com/rodandr13/codewars/blob/main/8kyu/Regular_Ball_Super_Ball.py)
 - [Return to Sanity](https://github.com/rodandr13/codewars/blob/main/8kyu/Return_to_Sanity.py)
 - [Training JS #7: if..else and ternary operator](https://github.com/rodandr13/codewars/blob/main/8kyu/Training_JS_7_if_else_and_ternary_operator.py)
+- [Double Char](https://github.com/rodandr13/codewars/blob/main/8kyu/Double_Char.py)
+- [A wolf in sheep's clothing](https://github.com/rodandr13/codewars/blob/main/8kyu/A_wolf_in_sheep_s_clothing.py)
+- [Is the date today](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_the_date_today.py)
