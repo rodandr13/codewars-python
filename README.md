@@ -82,6 +82,8 @@
 - [Beginner Series #3 Sum of Numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Beginner_Series_3_Sum_of_Numbers.py)
 - [Powers of i](https://github.com/rodandr13/codewars/blob/main/7kyu/Powers_of_i.py)
 - [Deutschstunde](https://github.com/rodandr13/codewars/blob/main/7kyu/Deutschstunde.py)
+- [Walking in the hallway]()
+- [Sum a list but ignore any duplicates]()
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
@@ -177,3 +179,7 @@
 - [Double Char](https://github.com/rodandr13/codewars/blob/main/8kyu/Double_Char.py)
 - [A wolf in sheep's clothing](https://github.com/rodandr13/codewars/blob/main/8kyu/A_wolf_in_sheep_s_clothing.py)
 - [Is the date today](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_the_date_today.py)
+- [Chuck Norris VII - True or False? (Beginner)]()
+- [How many lightsabers do you own?]()
+- [Enumerable Magic #30 - Split that Array!]()
+- [Safen User Input Part I - htmlspecialchars]()
