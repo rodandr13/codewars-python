@@ -8,5 +8,4 @@ should return [-1,2,3,4,5]
 
 
 def string_to_int_list(s):
-    print(s.split(','))
     return [int(x) for x in s.split(',') if x]
