@@ -189,3 +189,7 @@
 - [How many lightsabers do you own?](https://github.com/rodandr13/codewars/blob/main/8kyu/How_many_lightsabers_do_you_own.py)
 - [Enumerable Magic #30 - Split that Array!](https://github.com/rodandr13/codewars/blob/main/8kyu/Enumerable_Magic_30_Split_that_Array.py)
 - [Safen User Input Part I - htmlspecialchars](https://github.com/rodandr13/codewars/blob/main/8kyu/Safen_User_Input_Part_I_htmlspecialchars.py)
+- [Cat years, Dog years](https://github.com/rodandr13/codewars/blob/main/8kyu/Cat_years_Dog_years.py)
+- [Quarter of the year](https://github.com/rodandr13/codewars/blob/main/8kyu/Quarter_of_the_year.py)
+- [Remove exclamation marks](https://github.com/rodandr13/codewars/blob/main/8kyu/Remove_exclamation_marks.py)
+- [Subtract the Sum](https://github.com/rodandr13/codewars/blob/main/8kyu/Subtract_the_Sum.py)
