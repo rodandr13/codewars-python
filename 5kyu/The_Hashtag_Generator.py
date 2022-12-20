@@ -13,6 +13,15 @@ If the input or the result is an empty string it must return false.
 "    Hello     World   "                  =>  "#HelloWorld"
 ""                                        =>  false
 """
+"""
+def generate_hashtag(s):
+    output = "#"
+    
+    for word in s.split():
+        output += word.capitalize()
+    
+    return False if (len(s) == 0 or len(output) > 140) else output
+"""
 
 
 def generate_hashtag(s):
