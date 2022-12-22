@@ -200,3 +200,7 @@
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/rodandr13/codewars/blob/main/8kyu/altERnaTIng_cAsE_ALTerNAtiNG_CaSe.py)
 - [Is it a palindrome?](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_it_a_palindrome.py)
 - [Convert a String to a Number!](https://github.com/rodandr13/codewars/blob/main/8kyu/Convert_a_String_to_a_Number.py)
+- [Is it even?](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_it_even.py)
+- [Get Planet Name By ID](https://github.com/rodandr13/codewars/blob/main/8kyu/Get_Planet_Name_By_ID.py)
+- [No zeros for heros](https://github.com/rodandr13/codewars/blob/main/8kyu/No_zeros_for_heros.py)
+- [Is this my tail?](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_this_my_tail.py)
