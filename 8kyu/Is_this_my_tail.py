@@ -9,6 +9,10 @@ If the tail is right return true, else return false.
 
 The arguments will always be non empty strings, and normal letters.
 """
+"""
+def correct_tail(body, tail):
+    return body.endswith(tail)
+"""
 
 
 def correct_tail(body, tail):
