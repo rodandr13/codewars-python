@@ -18,6 +18,10 @@ Examples
 "1"    =>  NULL
 "1,2"  =>  NULL
 """
+"""
+def array(strng):
+    return ' '.join(strng.split(',')[1:-1]) or None
+"""
 
 
 def array(string):
