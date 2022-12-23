@@ -12,6 +12,14 @@ S is misinterpreted as 5
 O is misinterpreted as 0
 I is misinterpreted as 1
 """
+"""
+def correct(string):
+    return string.translate(str.maketrans("501", "SOI"))
+"""
+"""
+def correct(string):
+    return string.replace('1','I').replace('0','O').replace('5','S')
+"""
 
 
 def correct(s):
