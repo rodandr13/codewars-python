@@ -204,3 +204,6 @@
 - [Get Planet Name By ID](https://github.com/rodandr13/codewars/blob/main/8kyu/Get_Planet_Name_By_ID.py)
 - [No zeros for heros](https://github.com/rodandr13/codewars/blob/main/8kyu/No_zeros_for_heros.py)
 - [Is this my tail?](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_this_my_tail.py)
+- [Are You Playing Banjo?](https://github.com/rodandr13/codewars/blob/main/8kyu/Are_You_Playing_Banjo.py)
+- [Remove First and Last Character Part Two](https://github.com/rodandr13/codewars/blob/main/8kyu/Remove_First_and_Last_Character_Part_Two.py)
+- [Classy Classes](https://github.com/rodandr13/codewars/blob/main/8kyu/Classy_Classes.py)
