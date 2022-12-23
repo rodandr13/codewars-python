@@ -11,5 +11,11 @@ should return johns age is 34
 
 
 class Person:
+
     def __init__(self, name, age):
-        self.info = f"{name}s age is {age}"
+        self.name = name
+        self.age = age
+
+    @property
+    def info(self):
+        return f"{self.name}s age is {self.age}"
