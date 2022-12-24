@@ -10,8 +10,4 @@ The tests contain some very huge arrays, so think about performance.
 
 
 def find_uniq(arr):
-    maximum = max(arr)
-    minimum = min(arr)
-    if arr.count(maximum) == 1:
-        return maximum
-    return minimum
+    return max(arr) if arr.count(max(arr)) == 1 else min(arr)
