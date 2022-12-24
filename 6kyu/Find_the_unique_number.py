@@ -7,6 +7,11 @@ It’s guaranteed that array contains at least 3 numbers.
 
 The tests contain some very huge arrays, so think about performance.
 """
+"""
+def find_uniq(arr):
+    a, b = set(arr)
+    return a if arr.count(a) == 1 else b
+"""
 
 
 def find_uniq(arr):
