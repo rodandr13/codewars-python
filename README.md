@@ -20,6 +20,8 @@
 - [Reach Me and Sum my Digits](https://github.com/rodandr13/codewars/blob/main/6kyu/Reach_Me_and_Sum_my_Digits.py)
 - [Convert string to camel case](https://github.com/rodandr13/codewars/blob/main/6kyu/Convert_string_to_camel_case.py)
 - [WeIrD StRiNg CaSe](https://github.com/rodandr13/codewars/blob/main/6kyu/WeIrD_StRiNg_CaSe.py)
+- [Find the unique number](https://github.com/rodandr13/codewars/blob/main/6kyu/Find_the_unique_number.py)
+- [Remove the parentheses](https://github.com/rodandr13/codewars/blob/main/6kyu/Remove_the_parentheses.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
