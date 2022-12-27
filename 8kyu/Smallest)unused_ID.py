@@ -12,6 +12,13 @@ be duplicate IDs, but you don't have to find or remove them!
 
 Go on and code some pure awesomeness!
 """
+"""
+def next_id(arr):    
+    t = 0
+    while t in arr:
+        t +=1
+    return t
+"""
 
 
 def next_id(arr):
