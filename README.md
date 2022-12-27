@@ -5,6 +5,7 @@
 - [Not very secure](https://github.com/rodandr13/codewars/blob/main/5kyu/Not_very_secure.py)
 - [PaginationHelper](https://github.com/rodandr13/codewars/blob/main/5kyu/PaginationHelper.py)
 - [The Hashtag Generator](https://github.com/rodandr13/codewars/blob/main/5kyu/The_Hashtag_Generator.py)
+- [Domain name validator]()
 ### 6 kyu
 - [CamelCase Method](https://github.com/rodandr13/codewars/blob/main/6kyu/CamelCase_Method.py)
 - [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
@@ -22,6 +23,7 @@
 - [WeIrD StRiNg CaSe](https://github.com/rodandr13/codewars/blob/main/6kyu/WeIrD_StRiNg_CaSe.py)
 - [Find the unique number](https://github.com/rodandr13/codewars/blob/main/6kyu/Find_the_unique_number.py)
 - [Remove the parentheses](https://github.com/rodandr13/codewars/blob/main/6kyu/Remove_the_parentheses.py)
+- [The maximum and minimum difference -- Simple version]()
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
@@ -209,3 +211,8 @@
 - [Are You Playing Banjo?](https://github.com/rodandr13/codewars/blob/main/8kyu/Are_You_Playing_Banjo.py)
 - [Remove First and Last Character Part Two](https://github.com/rodandr13/codewars/blob/main/8kyu/Remove_First_and_Last_Character_Part_Two.py)
 - [Classy Classes](https://github.com/rodandr13/codewars/blob/main/8kyu/Classy_Classes.py)
+- [Sum of Multiples](https://github.com/rodandr13/codewars/blob/main/8kyu/Sum_of_Multiples.py)
+- [Get Nth Even Number](https://github.com/rodandr13/codewars/blob/main/8kyu/Get_Nth_Even_Number.py)
+- [Logical calculator](https://github.com/rodandr13/codewars/blob/main/8kyu/Logical_calculator.py)
+- [Smallest unused ID](https://github.com/rodandr13/codewars/blob/main/8kyu/Smallest)unused_ID.py)
+- [Dollars and Cents](https://github.com/rodandr13/codewars/blob/main/8kyu/Dollars_and_Cents.py)
