@@ -13,8 +13,8 @@ This is how our asked function should work: the result of the coordinates
 should be expressed up to four decimals, (rounded result).
 """
 """
-def bar_triang(a, b, c):
-    return [round(sum(x)/3.0, 4) for x in zip(a, b, c)]
+def bar_triang(point_a, point_b, point_c): 
+    return [round(sum(x) / 3, 4) for x in zip(point_a, point_b, point_c)]
 """
 
 
