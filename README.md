@@ -216,3 +216,7 @@
 - [Logical calculator](https://github.com/rodandr13/codewars/blob/main/8kyu/Logical_calculator.py)
 - [Smallest unused ID](https://github.com/rodandr13/codewars/blob/main/8kyu/Smallest)unused_ID.py)
 - [Dollars and Cents](https://github.com/rodandr13/codewars/blob/main/8kyu/Dollars_and_Cents.py)
+- [Beginner - Reduce but Grow](https://github.com/rodandr13/codewars/blob/main/8kyu/Beginner_Reduce_but_Grow.py)
+- [Localize The Barycenter of a Triangle](https://github.com/rodandr13/codewars/blob/main/8kyu/Localize_The_Barycenter_of_a_Triangle.py)
+- [Parse nice int from char problem](https://github.com/rodandr13/codewars/blob/main/8kyu/Parse_nice_int_from_char_problem.py)
+- [String Templates - Bug Fixing #5](https://github.com/rodandr13/codewars/blob/main/8kyu/String_Templates_Bug_Fixing_5.py)
