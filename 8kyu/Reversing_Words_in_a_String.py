@@ -11,6 +11,10 @@ Example (Input --> Output)
 "Hello World" --> "World Hello"
 "Hi There." --> "There. Hi"
 """
+"""
+def reverse(st):
+    return " ".join(reversed(st.split())).strip()
+"""
 
 
 def reverse(st):
