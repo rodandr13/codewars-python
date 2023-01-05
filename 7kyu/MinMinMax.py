@@ -22,7 +22,11 @@ minMinMax([2, -4, 8, -5, 9, 7]); //[-5, -3,9]
 """
 """
 def minMinMax(arr):
-    return [min(arr), min([x for x in range(min(arr), max(arr)) if x not in arr ]), max(arr)]
+    return [
+        min(arr),
+        min([x for x in range(min(arr), max(arr)) if x not in arr]),
+        max(arr)
+    ]
 """
 
 
