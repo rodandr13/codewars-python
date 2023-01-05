@@ -20,6 +20,10 @@ minMinMax([-1, 4, 5, -23, 24]); //[-23, -22, 24]
 minMinMax([1, 3, -3, -2, 8, -1]); //[-3, 0, 8]
 minMinMax([2, -4, 8, -5, 9, 7]); //[-5, -3,9]
 """
+"""
+def minMinMax(arr):
+    return [min(arr), min([x for x in range(min(arr), max(arr)) if x not in arr ]), max(arr)]
+"""
 
 
 def min_min_max(arr):
