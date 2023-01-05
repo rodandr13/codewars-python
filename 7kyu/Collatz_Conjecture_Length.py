@@ -14,6 +14,10 @@ Write a program that will output the length of the Collatz Conjecture
 for any given n.
 In the example above, the output would be 8.
 """
+"""
+def collatz(n):
+    return 1 if n == 1 else 1 + collatz(3 * n + 1 if n % 2 else n // 2)
+"""
 
 
 def collatz(n):
