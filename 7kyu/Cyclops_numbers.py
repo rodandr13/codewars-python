@@ -10,6 +10,12 @@ return True if that number wil be a cyclops number when converted to binary,
 or False if it won't.
 Assume n will be a positive integer.
 """
+"""
+def cyclops(n):
+    n = bin(n)[2:]
+    
+    return n.count("0") == 1 and n == n[::-1]
+"""
 
 
 def cyclops (n):
