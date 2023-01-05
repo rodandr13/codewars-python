@@ -95,6 +95,12 @@
 - [String to list of integers.](https://github.com/rodandr13/codewars/blob/main/7kyu/String_to_list_of_integers.py)
 - [Driving School Series #1](https://github.com/rodandr13/codewars/blob/main/7kyu/Driving_School_Series.py)
 - [SevenAte9](https://github.com/rodandr13/codewars/blob/main/7kyu/SevenAte9.py)
+- [Simple Fun #176: Reverse Letter](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_176_Reverse_Letter.py)
+- [MinMinMax](https://github.com/rodandr13/codewars/blob/main/7kyu/MinMinMax.py)
+- [Cyclops numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Cyclops_numbers.py)
+- [Collatz Conjecture Length](https://github.com/rodandr13/codewars/blob/main/7kyu/Collatz_Conjecture_Length.py)
+- [The alphabet product](https://github.com/rodandr13/codewars/blob/main/7kyu/The_alphabet_product.py)
+- [Oh, so you like programming? Name all of the keywords!](https://github.com/rodandr13/codewars/blob/main/7kyu/Oh_so_you_like_programming_Name_all_of_the_keywords.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
