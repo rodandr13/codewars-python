@@ -10,6 +10,16 @@ Examples
 "#######"       ==>  ""
 ""              ==>  ""
 """
+"""
+def clean_string(s):
+    result = []
+    for char in s:
+        if char == "#" and result:
+            result.pop()
+        elif char != "#":
+            result.append(char)
+    return "".join(result)
+"""
 
 
 def clean_string(s):
