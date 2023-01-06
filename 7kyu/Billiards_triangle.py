@@ -17,7 +17,15 @@ pyramid(15) == 5
 Write a function that takes number of balls (≥ 1) and calculates how many
 levels you can build a triangle.
 """
+"""
+def pyramid(n):
+    i = 1
+    while i<= n:
+        n = n -i
+        i += 1
+    return i-1
+"""
 
 
 def pyramid(balls):
-    return int((1+8 * balls) ** 0.5 * 0.5 - 0.5)
+    return int((1 + 8 * balls) ** 0.5 * 0.5 - 0.5)
