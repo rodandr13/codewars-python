@@ -1,5 +1,5 @@
 # Codewars
-![IMAGE_DESCRIPTION](https://www.codewars.com/users/roditelev/badges/large?theme=light)
+![IMAGE_DESCRIPTION](https://www.codewars.com/users/roditelev)
 ### 5 kyu
 - [Moving Zeros To The End](https://github.com/rodandr13/codewars/blob/main/5kyu/Moving_Zeros_To_The_End.py)
 - [Not very secure](https://github.com/rodandr13/codewars/blob/main/5kyu/Not_very_secure.py)
