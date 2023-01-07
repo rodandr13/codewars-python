@@ -12,6 +12,10 @@ Examples:
 * With `name` not given
   or `name` = ""        => return "Hello, World!"
 """
+"""
+def hello(name=''):
+    return f"Hello, {name.title() or 'World'}!"
+"""
 
 
 def hello(name="World"):
