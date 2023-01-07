@@ -24,6 +24,7 @@
 - [Find the unique number](https://github.com/rodandr13/codewars/blob/main/6kyu/Find_the_unique_number.py)
 - [Remove the parentheses](https://github.com/rodandr13/codewars/blob/main/6kyu/Remove_the_parentheses.py)
 - [The maximum and minimum difference -- Simple version](https://github.com/rodandr13/codewars/blob/main/6kyu/The_maximum_and_minimum_difference_Simple_version.py)
+- [Backspaces in string](https://github.com/rodandr13/codewars/blob/main/6kyu/Backspaces_in_string.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
@@ -101,6 +102,14 @@
 - [Collatz Conjecture Length](https://github.com/rodandr13/codewars/blob/main/7kyu/Collatz_Conjecture_Length.py)
 - [The alphabet product](https://github.com/rodandr13/codewars/blob/main/7kyu/The_alphabet_product.py)
 - [Oh, so you like programming? Name all of the keywords!](https://github.com/rodandr13/codewars/blob/main/7kyu/Oh_so_you_like_programming_Name_all_of_the_keywords.py)
+- [Factorial Factory](https://github.com/rodandr13/codewars/blob/main/7kyu/Factorial_Factory.py)
+- [Big Factorial](https://github.com/rodandr13/codewars/blob/main/7kyu/Big_Factorial.py)
+- [Factorial](https://github.com/rodandr13/codewars/blob/main/7kyu/Factorial.py)
+- [Sum Factorial](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_Factorial.py)
+- [Billiards triangle](https://github.com/rodandr13/codewars/blob/main/7kyu/Billiards_triangle.py)
+- [Count consonants](https://github.com/rodandr13/codewars/blob/main/7kyu/Count_consonants.py)
+- [Most digits](https://github.com/rodandr13/codewars/blob/main/7kyu/Most_digits.py)
+- [Stones on the Table](https://github.com/rodandr13/codewars/blob/main/7kyu/Stones_on_the_Table.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
