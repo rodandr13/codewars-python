@@ -11,6 +11,10 @@ an empty array.
 Note: arr1 and arr2 may be sorted in different orders. Also arr1 and arr2 may
 have same integers. Remove duplicated in the returned result.
 """
+"""
+def merge_arrays(arr1, arr2):
+    return sorted(set(arr1+arr2))
+"""
 
 
 def merge_arrays(arr1, arr2):
