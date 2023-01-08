@@ -10,6 +10,10 @@ say_hello(['John', 'Smith'], 'Phoenix', 'Arizona')
 This example will return the string Hello, John Smith! Welcome to Phoenix,
 Arizona!
 """
+"""
+def say_hello(name, city, state):
+  return "Hello, {}! Welcome to {}, {}!".format(" ".join(name), city, state)
+"""
 
 
 def say_hello(name, city, state):
