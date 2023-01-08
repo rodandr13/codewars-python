@@ -25,6 +25,7 @@
 - [Remove the parentheses](https://github.com/rodandr13/codewars/blob/main/6kyu/Remove_the_parentheses.py)
 - [The maximum and minimum difference -- Simple version](https://github.com/rodandr13/codewars/blob/main/6kyu/The_maximum_and_minimum_difference_Simple_version.py)
 - [Backspaces in string](https://github.com/rodandr13/codewars/blob/main/6kyu/Backspaces_in_string.py)
+- [Highest Scoring Word](https://github.com/rodandr13/codewars/blob/main/6kyu/Highest_Scoring_Word.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
@@ -243,3 +244,5 @@
 - [Plural](https://github.com/rodandr13/codewars/blob/main/8kyu/Plural.py)
 - [Add new item (collections are passed by reference)](https://github.com/rodandr13/codewars/blob/main/8kyu/Add_new_item_collections_are_passed_by_reference.py)
 - [Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right](https://github.com/rodandr13/codewars/blob/main/8kyu/Exclamation_marks_series_6_Remove_n_exclamation_marks_in_the_sentence_from_left_to_right.py)
+- [Reversed Strings](https://github.com/rodandr13/codewars/blob/main/8kyu/Reversed_Strings.py)
+- [Hello, Name or World!](https://github.com/rodandr13/codewars/blob/main/8kyu/Hello_Name_or_World.py)
