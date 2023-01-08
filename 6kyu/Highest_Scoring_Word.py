@@ -13,6 +13,10 @@ in the original string.
 
 All letters will be lowercase and all inputs will be valid.
 """
+"""
+def high(x):
+    return max(x.split(), key=lambda k: sum(ord(c) - 96 for c in k))
+"""
 
 
 def high(x):
