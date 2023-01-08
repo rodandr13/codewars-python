@@ -8,6 +8,14 @@ you receive any more complaints.
 Pipes list is correct when each pipe after the first index is greater (+1)
 than the previous one, and that there is no duplicates.
 """
+"""
+def pipe_fix(nums):
+    return list(range(nums[0], nums[-1] + 1))
+"""
+"""
+def pipe_fix(num):
+    return range(min(num), max(num)+1)
+"""
 
 
 def pipe_fix(nums):
