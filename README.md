@@ -111,6 +111,11 @@
 - [Count consonants](https://github.com/rodandr13/codewars/blob/main/7kyu/Count_consonants.py)
 - [Most digits](https://github.com/rodandr13/codewars/blob/main/7kyu/Most_digits.py)
 - [Stones on the Table](https://github.com/rodandr13/codewars/blob/main/7kyu/Stones_on_the_Table.py)
+- [Find the area of the rectangle!](https://github.com/rodandr13/codewars/blob/main/7kyu/Find_the_area_of_the_rectangle.py)
+- [Simple Fun #51: Array Previous Less](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_51_Array_Previous_Less.py)
+- [Next Prime](https://github.com/rodandr13/codewars/blob/main/7kyu/Next_Prime.py)
+- [L2: Triple X](https://github.com/rodandr13/codewars/blob/main/7kyu/L2_Triple_X.py)
+- [Closure Counter](https://github.com/rodandr13/codewars/blob/main/7kyu/Closure_Counter.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
