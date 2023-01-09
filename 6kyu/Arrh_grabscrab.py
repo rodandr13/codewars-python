@@ -17,6 +17,10 @@ if there are no matches.
 
 Good luck!
 """
+"""
+def grabscrab(said, possible_words):
+    return [ word for word in possible_words if sorted(word) == sorted(said) ]
+"""
 
 
 def grabscrab(said, possible_words):
