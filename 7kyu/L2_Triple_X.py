@@ -11,6 +11,11 @@ Note :
 capital X's do not count as an occurrence of "x".
 if there are no "x"'s then return false
 """
+""""
+def triple_x(s: str) -> bool:
+    return 0 <= s.find("x") == s.find("xxx") 
+
+"""
 
 
 def triple_x(s):
