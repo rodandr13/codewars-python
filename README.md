@@ -272,3 +272,7 @@
 - [Welcome to the City](https://github.com/rodandr13/codewars/blob/main/8kyu/Welcome_to_the_City.py)
 - [Add Length](https://github.com/rodandr13/codewars/blob/main/8kyu/Add_Length.py)
 - [Simple multiplication](https://github.com/rodandr13/codewars/blob/main/8kyu/Simple_multiplication.py)
+- [Removing Elements](https://github.com/rodandr13/codewars/blob/main/8kyu/Removing_Elements.py)
+- [Convert boolean values to strings 'Yes' or 'No'.](https://github.com/rodandr13/codewars/blob/main/8kyu/Convert_boolean_values_to_strings_Yes_or_No.py)
+- [String cleaning](https://github.com/rodandr13/codewars/blob/main/8kyu/String_cleaning.py)
+- [Did she say hallo?](https://github.com/rodandr13/codewars/blob/main/8kyu/Did_she_say_hallo.py)
