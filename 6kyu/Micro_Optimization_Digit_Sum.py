@@ -15,6 +15,14 @@ def digit_sum(n):
 def digit_sum(n):
     return n if n<9 else n%10 + digit_sum(n//10)
 """
+"""
+def digit_sum(n):
+    return sum(map(int, str(n)))
+"""
+"""
+def digit_sum(n):
+    return sum(int(i) for i in str(n))
+"""
 
 
 def digit_sum(n):
