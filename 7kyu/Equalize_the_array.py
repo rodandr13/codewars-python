@@ -7,6 +7,14 @@ Output :: ["+0", "+10", "+15", "-10"]
 
 Show some love, rank and upvote!
 """
+"""
+def equalize(arr):
+    return ["{:+d}".format(i-arr[0]) for i in arr]
+"""
+"""
+def equalize(arr):
+    return [f"{n - arr[0]:+d}" for n in arr]
+"""
 
 
 def equalize(arr):
