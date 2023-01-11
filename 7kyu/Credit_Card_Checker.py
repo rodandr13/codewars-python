@@ -17,6 +17,12 @@ separated by spaces, i.e. "1234 5678 9012 3456"
 Don´t worry about wrong inputs, they will always be a string with 4 groups of
 4 digits each separated by space.
 """
+"""
+def valid_card(card):
+    s = list(map(int, str(card.replace(' ', ''))))
+    s[0::2] = [d * 2 - 9 if d * 2 > 9 else d * 2 for d in s[0::2]]
+    return sum(s) % 10 == 0
+"""
 
 
 def valid_card(card):
