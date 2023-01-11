@@ -6,6 +6,10 @@ If a number is even, convert it to binary.
 If a number is odd, convert it to hex.
 Numbers will be positive. The hexadecimal string should be lowercased.
 """
+"""
+def evens_and_odds(n):
+    return f"{n:x}" if n % 2 else f"{n:b}"
+"""
 
 
 def evens_and_odds(n):
