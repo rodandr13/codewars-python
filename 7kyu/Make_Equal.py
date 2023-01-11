@@ -14,6 +14,10 @@ you can make 11 equal to 7 by subtracting 2 twice
 you can make 5 equal to 7 by adding 2
 you can make 3 equal to 7 by adding 2 twice
 """
+"""
+def count(a, t, x):
+    return sum(not (t-v)%x if x else t==v for v in a)
+"""
 
 
 def count(a, t, x):
