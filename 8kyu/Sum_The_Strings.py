@@ -10,6 +10,10 @@ Example: (Input1, Input2 -->Output)
 "2", "" --> "2"
 "-5", "3" --> "-2"
 """
+"""
+def sum_str(a, b):
+    return str(int(a or 0) + int(b or 0))
+"""
 
 
 def sum_str(a, b):
