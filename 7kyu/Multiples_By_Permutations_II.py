@@ -12,6 +12,13 @@ n = 8919
 #Because 8919 * 100 = 891900
 and      8919 * 101 = 900819
 """
+"""
+def find_lowest_int(number):
+    multiplier = 1
+    while sorted(str(number * multiplier)) != sorted(str((number + 1) * multiplier)):
+        multiplier += 1
+    return multiplier
+"""
 
 
 def find_lowest_int(k):
