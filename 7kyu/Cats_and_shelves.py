@@ -34,6 +34,10 @@ Find the minimum number of jumps to go from start to finish
 Example
 Start 1, finish 5, then answer is 2 (1 => 4 => 5 or 1 => 2 => 5)
 """
+"""
+def solution(start, finish):
+    return sum(divmod(finish-start, 3))
+"""
 
 
 def solution(start, finish):
