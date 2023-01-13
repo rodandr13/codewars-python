@@ -22,6 +22,11 @@ empty.
 
 --> [8,9,10,11,12,-1]
 """
+"""
+def sum_arrays(arrays, shift):
+    shifted = [ [0]*i*shift + a + [0]*(len(arrays)-i-1)*shift  for i, a in enumerate(arrays)]
+    return list(map(sum, zip(*shifted)))
+"""
 
 
 def sum_arrays(arrays, shift):
