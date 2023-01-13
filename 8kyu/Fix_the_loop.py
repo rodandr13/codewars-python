@@ -13,6 +13,10 @@ will result in:
 
 list_animals(animals) == '1. dog\n2. cat\n3. elephant\n'
 """
+"""
+def list_animals(animals):
+    return ''.join('{}. {}\n'.format(i, x) for (i, x) in enumerate(animals, 1))
+"""
 
 
 def list_animals(animals):
