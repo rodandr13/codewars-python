@@ -21,6 +21,10 @@ Examples
 "abcdefghijklmnopqrstuvwxyz" ==> 21
 "Count my unique consonants!!" ==> 7
 """
+"""
+def count_consonants(s):
+    return len({c for c in s.lower() if c in 'bcdfghjklmnpqrstvwxyz'})
+"""
 
 
 def count_consonants(text):
