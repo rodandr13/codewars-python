@@ -8,6 +8,19 @@ should be an instance of the class Man. The second should be an instance
 of the class Woman. Both objects have to be subclasses of Human. Your job
 is to implement the Human, Man and Woman classes.
 """
+"""
+def God():
+    return [Man(), Woman()]
+
+class Human(object):
+    pass
+
+class Man(Human):
+    pass
+    
+class Woman(Human):
+    pass
+"""
 
 
 class Human:
