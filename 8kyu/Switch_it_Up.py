@@ -7,6 +7,10 @@ Output :: "One".
 
 If your language supports it, try using a switch statement.
 """
+"""
+def switch_it_up(n):
+    return ['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine'][n]
+"""
 
 
 def switch_it_up(number):
