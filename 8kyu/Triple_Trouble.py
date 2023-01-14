@@ -8,6 +8,10 @@ E.g. Input: "aa", "bb" , "cc" => Output: "abcabc"
 
 Note: You can expect all of the inputs to be the same length.
 """
+"""
+def triple_trouble(one, two, three):
+    return ''.join(''.join(a) for a in zip(one, two, three))
+"""
 
 
 def triple_trouble(one, two, three):
