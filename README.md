@@ -6,6 +6,7 @@
 - [PaginationHelper](https://github.com/rodandr13/codewars/blob/main/5kyu/PaginationHelper.py)
 - [The Hashtag Generator](https://github.com/rodandr13/codewars/blob/main/5kyu/The_Hashtag_Generator.py)
 - [Domain name validator](https://github.com/rodandr13/codewars/blob/main/5kyu/Domain_name_validator.py)
+- [Scramblies](https://github.com/rodandr13/codewars/blob/main/5kyu/Scramblies.py)
 ### 6 kyu
 - [CamelCase Method](https://github.com/rodandr13/codewars/blob/main/6kyu/CamelCase_Method.py)
 - [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
