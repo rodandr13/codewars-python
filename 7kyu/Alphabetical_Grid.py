@@ -20,6 +20,7 @@ def grid(N):
     if N < 0:
         return None
     result = []
+    abc = ascii_lowercase * N
     for i in range(N):
-        result.append(' '.join(list(ascii_lowercase[i:N+i])))
+        result.append(' '.join(list(abc[i:N+i])))
     return '\n'.join(result)
