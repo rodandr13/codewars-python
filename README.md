@@ -320,3 +320,8 @@
 - [Find out whether the shape is a cube](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_out_whether_the_shape_is_a_cube.py)
 - [Short Long Short](https://github.com/rodandr13/codewars/blob/main/8kyu/Short_Long_Short.py)
 - [Enumerable Magic #1 - True for All?](https://github.com/rodandr13/codewars/blob/main/8kyu/Enumerable_Magic_1_True_for_All.py)
+- [Multiply the number](https://github.com/rodandr13/codewars/blob/main/8kyu/Multiply_the_number.py)
+- [Template Strings](https://github.com/rodandr13/codewars/blob/main/8kyu/Template_Strings.py)
+- [Ensure question](https://github.com/rodandr13/codewars/blob/main/8kyu/Ensure_question.py)
+- [Find the Slope](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_the_Slope.py)
+- [Grasshopper - Array Mean](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Array_Mean.py)
