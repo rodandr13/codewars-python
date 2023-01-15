@@ -14,6 +14,10 @@ More examples can be found in the test cases.
 
 Good luck!
 """
+"""
+def solve(arr): 
+    return list(dict.fromkeys(arr[::-1]))[::-1]
+"""
 
 
 def solve(arr):
