@@ -11,6 +11,10 @@ For example: (Input1, Input2) --> output
 ("1", "22") --> "1221"
 ("22", "1") --> "1221"
 """
+"""
+def solution(a, b):
+    return a+b+a if len(a)<len(b) else b+a+b
+"""
 
 
 def solution(a, b):
