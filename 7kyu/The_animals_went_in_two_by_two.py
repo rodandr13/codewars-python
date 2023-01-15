@@ -12,6 +12,10 @@ onto the ark.
 two_by_two(['goat', 'goat', 'rabbit', 'rabbit', 'rabbit', 'duck', 'horse', 'horse', 'swan'])
 {'goat': 2, 'horse': 2, 'rabbit': 2}
 """
+"""
+def two_by_two(animals):
+    return {x:2 for x in animals if animals.count(x) > 1} if animals else False
+"""
 
 
 def two_by_two(animals):
