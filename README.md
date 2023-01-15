@@ -136,6 +136,12 @@
 - [Multiples By Permutations II](https://github.com/rodandr13/codewars/blob/main/7kyu/Multiples_By_Permutations_II.py)
 - [How Many Unique Consonants?](https://github.com/rodandr13/codewars/blob/main/7kyu/How_Many_Unique_Consonants.py)
 - [Cats and shelves](https://github.com/rodandr13/codewars/blob/main/7kyu/Cats_and_shelves.py)
+- [Alphabetical Grid](https://github.com/rodandr13/codewars/blob/main/7kyu/Alphabetical_Grid.py)
+- [Simple remove duplicates](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_remove_duplicates.py)
+- [Finding Remainder Without Using '%' Operator](https://github.com/rodandr13/codewars/blob/main/7kyu/Finding_Remainder_Without_Using_Operator.py)
+- [Sum of two lowest positive integers](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_of_two_lowest_positive_integers.py)
+- [The animals went in two by two](https://github.com/rodandr13/codewars/blob/main/7kyu/The_animals_went_in_two_by_two.py)
+- [Sum of Triangular Numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_of_Triangular_Numbers.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
