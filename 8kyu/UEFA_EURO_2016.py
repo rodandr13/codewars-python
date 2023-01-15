@@ -1,6 +1,10 @@
 """
 Finish the uefaEuro2016() function so it return string just like in the examples below:
 """
+"""
+def uefa_euro_2016(teams, scores):
+    return f"At match {teams[0]} - {teams[1]}, {'teams played draw.' if scores[0] == scores[1] else teams[scores.index(max(scores))] + ' won!'}"
+"""
 
 
 def uefa_euro_2016(teams, scores):
