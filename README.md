@@ -338,3 +338,7 @@
 - [Ensure question](https://github.com/rodandr13/codewars/blob/main/8kyu/Ensure_question.py)
 - [Find the Slope](https://github.com/rodandr13/codewars/blob/main/8kyu/Find_the_Slope.py)
 - [Grasshopper - Array Mean](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Array_Mean.py)
+- [Define a card suit](https://github.com/rodandr13/codewars/blob/main/8kyu/Define_a_card_suit.py)
+- [Fix the Bugs (Syntax) - My First Kata](https://github.com/rodandr13/codewars/blob/main/8kyu/Fix_the_Bugs_Syntax_My_First_Kata.py)
+- [Return Two Highest Values in List](https://github.com/rodandr13/codewars/blob/main/8kyu/Return_Two_Highest_Values_in_List.py)
+- [Grasshopper - If/else syntax debug](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_If_else_syntax_debug.py)
