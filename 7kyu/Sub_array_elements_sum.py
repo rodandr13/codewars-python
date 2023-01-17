@@ -14,6 +14,10 @@ One small note is that not always each sub-array will have enough elements,
 in which case you should then use a default value (if provided) or 0
 (if not provided), as shown in the test cases.
 """
+"""
+def elements_sum(arr, d=0):
+    return sum(r[i] if i<len(r) else d for i,r in enumerate(reversed(arr)))
+"""
 
 
 def elements_sum(arr, d=0):
