@@ -35,6 +35,7 @@
 - [Micro Optimization: Digit Sum](https://github.com/rodandr13/codewars/blob/main/6kyu/Micro_Optimization_Digit_Sum.py)
 - [Unique In Order](https://github.com/rodandr13/codewars/blob/main/6kyu/Unique_In_Order.py)
 - [Create Phone Number](https://github.com/rodandr13/codewars/blob/main/6kyu/Create_Phone_Number.py)
+- [Common array elements]()
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
@@ -142,6 +143,12 @@
 - [Sum of two lowest positive integers](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_of_two_lowest_positive_integers.py)
 - [The animals went in two by two](https://github.com/rodandr13/codewars/blob/main/7kyu/The_animals_went_in_two_by_two.py)
 - [Sum of Triangular Numbers](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_of_Triangular_Numbers.py)
+- [Sub-array elements sum](https://github.com/rodandr13/codewars/blob/main/7kyu/Sub_array_elements_sum.py)
+- [Grid index](https://github.com/rodandr13/codewars/blob/main/7kyu/Grid_index.py)
+- [Check digit](https://github.com/rodandr13/codewars/blob/main/7kyu/Check_digit.py)
+- [Separate basic types](https://github.com/rodandr13/codewars/blob/main/7kyu/Separate_basic_types.py)
+- [Multiples!](https://github.com/rodandr13/codewars/blob/main/7kyu/Multiples.py)
+- [Find the divisors!](https://github.com/rodandr13/codewars/blob/main/7kyu/Find_the_divisors.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
