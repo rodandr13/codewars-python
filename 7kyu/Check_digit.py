@@ -30,6 +30,10 @@ Find more details below:
 
   checkDigit(87996599994565, 2, 5, 1) -> false, 1 doesn't exist in 9965
 """
+"""
+def check_digit(n, i1, i2, d):
+    return str(d) in str(n)[min(i1,i2):max(i1,i2)+1]
+"""
 
 
 def check_digit(number, index1, index2, digit):
