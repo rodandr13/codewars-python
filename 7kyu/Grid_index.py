@@ -20,6 +20,11 @@ Then you output a string like this:
 "meal"
 All inputs will be valid.
 """
+"""
+def grid_index(grid, indexes):
+    flat = sum(grid, [])
+    return "".join( flat[i-1] for i in indexes )
+"""
 
 
 def grid_index(grid, indexes):
