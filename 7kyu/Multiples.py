@@ -7,6 +7,10 @@ program should only return one value
 Ex: Input: 105 --> Output: "BangBoom" Ex: Input: 9 --> Output: "Bang"
 Ex:Input: 25 --> Output: "Boom"
 """
+"""
+def multiple(x):
+    return 'Bang' * (x % 3 == 0) + 'Boom' * (x % 5 == 0) or 'Miss'
+"""
 
 
 def multiple(x):
