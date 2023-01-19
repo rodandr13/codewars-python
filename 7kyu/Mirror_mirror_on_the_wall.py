@@ -18,6 +18,11 @@ Examples
 [1, 3, 2]  -->  [1, 2, 3, 2, 1]
 [-8, 42, 18, 0, -16]  -->  [-16, -8, 0, 18, 42, 18, 0, -8, -16]
 """
+"""
+def mirror(data: list) -> list:
+    arr = sorted(data)
+    return arr + arr[-2::-1]
+"""
 
 
 def mirror(data: list) -> list:
