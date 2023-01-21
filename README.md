@@ -152,6 +152,11 @@
 - [Mirror, mirror, on the wall...](https://github.com/rodandr13/codewars/blob/main/7kyu/Mirror_mirror_on_the_wall.py)
 - [SillyCASE](https://github.com/rodandr13/codewars/blob/main/7kyu/SillyCASE.py)
 - [Write your own map function.](https://github.com/rodandr13/codewars/blob/main/7kyu/Write_your_own_map_function.py)
+- [Trimming a string](https://github.com/rodandr13/codewars/blob/main/7kyu/Trimming_a_string.py)
+- [Number of People in the Bus](https://github.com/rodandr13/codewars/blob/main/7kyu/Number_of_People_in_the_Bus.py)
+- [String ends with?](https://github.com/rodandr13/codewars/blob/main/7kyu/String_ends_with.py)
+- [Shortest Word](https://github.com/rodandr13/codewars/blob/main/7kyu/Shortest_Word.py)
+- [Previous multiple of three](https://github.com/rodandr13/codewars/blob/main/7kyu/Previous_multiple_of_three.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
