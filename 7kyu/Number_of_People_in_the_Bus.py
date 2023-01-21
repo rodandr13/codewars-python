@@ -20,6 +20,10 @@ the bus is always >= 0. So the returned integer can't be negative.
 The second value in the first pair in the array is 0, since the bus is empty
 in the first bus stop.
 """
+"""
+def number(stops):
+    return sum(i - o for i, o in stops)
+"""
 
 
 def number(bus_stops):
