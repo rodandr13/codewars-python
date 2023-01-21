@@ -12,6 +12,12 @@ Examples
 1244   => 12
 952406 => 9
 """
+"""
+def prev_mult_of_three(n):
+    while n % 3:
+        n //= 10
+    return n or None
+"""
 
 
 def prev_mult_of_three(n):
