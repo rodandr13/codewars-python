@@ -359,3 +359,7 @@
 - [Well of Ideas - Easy Version](https://github.com/rodandr13/codewars/blob/main/8kyu/Well_of_Ideas_Easy_Version.py)
 - [Days in the year](https://github.com/rodandr13/codewars/blob/main/8kyu/Days_in_the_year.py)
 - [Enumerable Magic #20 - Cascading Subsets](https://github.com/rodandr13/codewars/blob/main/8kyu/Enumerable_Magic_20_Cascading_Subsets.py)
+- [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/rodandr13/codewars/blob/main/8kyu/101_Dalmatians_squash_the_bugs_not_the_dogs.py)
+- [Grasshopper - Personalized Message](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Personalized_Message.py)
+- [Student's Final Grade](https://github.com/rodandr13/codewars/blob/main/8kyu/Student_s_Final_Grade.py)
+- [Price of Mangoes](https://github.com/rodandr13/codewars/blob/main/8kyu/Price_of_Mangoes.py)
