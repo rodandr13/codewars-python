@@ -369,3 +369,4 @@
 - [Who is going to pay for the wall?](https://github.com/rodandr13/codewars/blob/main/8kyu/Who_is_going_to_pay_for_the_wall.py)
 - [Grasshopper - Terminal Game Turn Function](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Terminal_Game_Turn_Function.py)
 - [Is there a vowel in there?]()
+- [Grasshopper - Combine strings]
