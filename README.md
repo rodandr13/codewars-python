@@ -371,3 +371,4 @@
 - [Is there a vowel in there?]()
 - [Grasshopper - Combine strings]()
 - [Grasshopper - Messi goals function]()
+- [Grasshopper - Terminal game combat function]()
