@@ -10,6 +10,10 @@ returns:
 
 'James Stevens'
 """
+"""
+def combine_names(*args):
+    return ' '.join(args)
+"""
 
 
 def combine_names(name, surname):
