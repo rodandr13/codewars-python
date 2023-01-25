@@ -363,3 +363,8 @@
 - [Grasshopper - Personalized Message](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Personalized_Message.py)
 - [Student's Final Grade](https://github.com/rodandr13/codewars/blob/main/8kyu/Student_s_Final_Grade.py)
 - [Price of Mangoes](https://github.com/rodandr13/codewars/blob/main/8kyu/Price_of_Mangoes.py)
+- [L1: Set Alarm](https://github.com/rodandr13/codewars/blob/main/8kyu/L1_Set_Alarm.py)
+- [Unexpected parsing](https://github.com/rodandr13/codewars/blob/main/8kyu/Unexpected_parsing.py)
+- [Kata Example Twist](https://github.com/rodandr13/codewars/blob/main/8kyu/Kata_Example_Twist.py)
+- [Who is going to pay for the wall?](https://github.com/rodandr13/codewars/blob/main/8kyu/Who_is_going_to_pay_for_the_wall.py)
+- [Grasshopper - Terminal Game Turn Function](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Terminal_Game_Turn_Function.py)
