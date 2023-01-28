@@ -11,6 +11,11 @@ Examples
 [1, 1, 2] ==> 2
 [17, 17, 3, 17, 17, 17, 17] ==> 3
 """
+"""
+def stray(arr):
+    return min(arr, key=arr.count)
+
+"""
 
 
 def stray(arr):
