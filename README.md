@@ -377,3 +377,5 @@
 - [Grasshopper - Messi goals function](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Messi_goals_function.py)
 - [Grasshopper - Terminal game combat function](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Terminal_game_combat_function.py)
 - [Printing Array elements with Comma delimiters](https://github.com/rodandr13/codewars/blob/main/8kyu/Printing_Array_elements_with_Comma_delimiters.py)
+- [Grasshopper - Check for factor](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Check_for_factor.py)
+- [Who ate the cookie?](https://github.com/rodandr13/codewars/blob/main/8kyu/Who_ate_the_cookie.py)
