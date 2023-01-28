@@ -157,6 +157,10 @@
 - [String ends with?](https://github.com/rodandr13/codewars/blob/main/7kyu/String_ends_with.py)
 - [Shortest Word](https://github.com/rodandr13/codewars/blob/main/7kyu/Shortest_Word.py)
 - [Previous multiple of three](https://github.com/rodandr13/codewars/blob/main/7kyu/Previous_multiple_of_three.py)
+- [Sum of Cubes](https://github.com/rodandr13/codewars/blob/main/7kyu/Sum_of_Cubes.py)
+- [Remove the minimum](https://github.com/rodandr13/codewars/blob/main/7kyu/Remove_the_minimum.py)
+- [Find the stray number](https://github.com/rodandr13/codewars/blob/main/7kyu/Find_the_stray_number.py)
+- [Truncate a string!](https://github.com/rodandr13/codewars/blob/main/7kyu/Truncate_a_string.py)
 ### 8 kyu
 - [Regex count lowercase letters](https://github.com/rodandr13/codewars/blob/main/8kyu/Regex_count_lowercase_letters.py)
 - [Will you make it?](https://github.com/rodandr13/codewars/blob/main/8kyu/Will_you_make_it.py)
