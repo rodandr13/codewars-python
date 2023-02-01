@@ -25,6 +25,10 @@ For lastPlayer = "black" and win = false, the output should be "white".
 
 For lastPlayer = "white" and win = true, the output should be "white".
 """
+"""
+def whoseMove(lastPlayer, win):
+    return lastPlayer if win else 'white' if lastPlayer == 'black' else 'black'
+"""
 
 
 def whoseMove(lastPlayer, win):
