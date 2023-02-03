@@ -31,6 +31,10 @@ it may happen that the input string have leading, trailing whitespaces
 and more than a unique whitespace between two consecutive numbers
 For C: The result is freed.
 """
+"""
+def order_weight(_str):
+    return ' '.join(sorted(sorted(_str.split(' ')), key=lambda x: sum(int(c) for c in x)))
+"""
 
 
 def sum_num(number):
