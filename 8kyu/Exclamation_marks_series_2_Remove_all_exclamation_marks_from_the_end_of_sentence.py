@@ -10,6 +10,10 @@ remove("!Hi!") === "!Hi"
 remove("Hi! Hi!") === "Hi! Hi"
 remove("Hi") === "Hi"
 """
+"""
+def remove(s):
+    return s.rstrip("!")
+"""
 
 
 def remove(s):
