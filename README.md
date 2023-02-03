@@ -386,3 +386,7 @@
 - [Drink about](https://github.com/rodandr13/codewars/blob/main/8kyu/Drink_about.py)
 - [Grasshopper - Terminal Game #1](https://github.com/rodandr13/codewars/blob/main/8kyu/Grasshopper_Terminal_Game_1.py)
 - [L1: Bartender, drinks!](https://github.com/rodandr13/codewars/blob/main/8kyu/L1_Bartender_drinks.py)
+- [Basic Training: Add item to an Array](https://github.com/rodandr13/codewars/blob/main/8kyu/Basic_Training_Add_item_to_an_Array.py)
+- [Draw stairs](https://github.com/rodandr13/codewars/blob/main/8kyu/Draw_stairs.py)
+- [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](https://github.com/rodandr13/codewars/blob/main/8kyu/Exclamation_marks_series_2_Remove_all_exclamation_marks_from_the_end_of_sentence.py)
+- [For Twins: 1. Types](https://github.com/rodandr13/codewars/blob/main/8kyu/For_Twins_1_Types.py)
