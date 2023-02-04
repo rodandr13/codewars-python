@@ -38,7 +38,8 @@
 - [Micro Optimization: Digit Sum](https://github.com/rodandr13/codewars/blob/main/6kyu/Micro_Optimization_Digit_Sum.py)
 - [Unique In Order](https://github.com/rodandr13/codewars/blob/main/6kyu/Unique_In_Order.py)
 - [Create Phone Number](https://github.com/rodandr13/codewars/blob/main/6kyu/Create_Phone_Number.py)
-- [Common array elements]()
+- [Common array elements](https://github.com/rodandr13/codewars/blob/main/6kyu/Common_array_elements.py)
+- [Array.diff](https://github.com/rodandr13/codewars/blob/main/6kyu/Array_diff.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
