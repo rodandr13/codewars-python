@@ -1,5 +1,7 @@
 # Codewars
 [![IMAGE_DESCRIPTION](https://www.codewars.com/users/roditelev/badges/large?theme=light)](https://www.codewars.com/users/roditelev)
+### 4 kyu
+- [Strip Comments](https://github.com/rodandr13/codewars/blob/main/4kyu/Strip_Comments.py)
 ### 5 kyu
 - [Moving Zeros To The End](https://github.com/rodandr13/codewars/blob/main/5kyu/Moving_Zeros_To_The_End.py)
 - [Not very secure](https://github.com/rodandr13/codewars/blob/main/5kyu/Not_very_secure.py)
@@ -7,6 +9,7 @@
 - [The Hashtag Generator](https://github.com/rodandr13/codewars/blob/main/5kyu/The_Hashtag_Generator.py)
 - [Domain name validator](https://github.com/rodandr13/codewars/blob/main/5kyu/Domain_name_validator.py)
 - [Scramblies](https://github.com/rodandr13/codewars/blob/main/5kyu/Scramblies.py)
+- [Weight for weight](https://github.com/rodandr13/codewars/blob/main/5kyu/Weight_for_weight.py)
 ### 6 kyu
 - [CamelCase Method](https://github.com/rodandr13/codewars/blob/main/6kyu/CamelCase_Method.py)
 - [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
