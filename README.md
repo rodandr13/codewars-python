@@ -40,6 +40,9 @@
 - [Create Phone Number](https://github.com/rodandr13/codewars/blob/main/6kyu/Create_Phone_Number.py)
 - [Common array elements](https://github.com/rodandr13/codewars/blob/main/6kyu/Common_array_elements.py)
 - [Array.diff](https://github.com/rodandr13/codewars/blob/main/6kyu/Array_diff.py)
+- [String transformer](https://github.com/rodandr13/codewars/blob/main/6kyu/String_transformer.py)
+- [Does my number look big in this?](https://github.com/rodandr13/codewars/blob/main/6kyu/Does_my_number_look_big_in_this.py)
+- [Stop gninnipS My sdroW!](https://github.com/rodandr13/codewars/blob/main/6kyu/Stop_gninnipS_My_sdroW.py)
 ### 7 kyu
 - [Simple Fun #59: Reverse On Diagonals](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_Fun_Reverse_On_Diagonals.py)
 - [Simple string reversal](https://github.com/rodandr13/codewars/blob/main/7kyu/Simple_string_reversal.py)
