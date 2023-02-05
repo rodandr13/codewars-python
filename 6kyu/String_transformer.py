@@ -10,6 +10,10 @@ For example:
 "Example Input" ==> "iNPUT eXAMPLE"
 You may assume the input only contain English alphabet and spaces.
 """
+"""
+def string_transformer(s):
+    return ' '.join(s.swapcase().split(' ')[::-1])
+"""
 
 
 def string_transformer(s):
