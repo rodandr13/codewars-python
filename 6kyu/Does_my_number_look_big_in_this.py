@@ -18,6 +18,10 @@ This may be True and False in your language, e.g. PHP.
 Error checking for text strings or other invalid inputs is not required,
 only valid positive non-zero integers will be passed into the function.
 """
+"""
+def narcissistic(value):
+    return value == sum(int(x) ** len(str(value)) for x in str(value))
+"""
 
 
 def narcissistic(value):
