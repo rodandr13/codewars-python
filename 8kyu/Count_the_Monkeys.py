@@ -12,6 +12,10 @@ For example(Input --> Output):
 10 --> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
  1 --> [1]
 """
+"""
+def monkey_count(n):
+    return range(1, n+1)
+"""
 
 
 def monkey_count(n):
