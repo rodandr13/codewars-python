@@ -11,6 +11,11 @@ spinWords( "Hey fellow warriors" ) => returns "Hey wollef sroirraw"
 spinWords( "This is a test") => returns "This is a test"
 spinWords( "This is another test" )=> returns "This is rehtona test"
 """
+"""
+def spin_words(sentence):
+    # Your code goes here
+    return " ".join([x[::-1] if len(x) >= 5 else x for x in sentence.split(" ")])
+"""
 
 
 def spin_words(sentence):
