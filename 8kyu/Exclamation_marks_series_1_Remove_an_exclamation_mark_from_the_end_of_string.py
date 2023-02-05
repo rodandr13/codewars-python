@@ -11,6 +11,10 @@ remove("!Hi!") == "!Hi"
 remove("Hi! Hi!") == "Hi! Hi"
 remove("Hi") == "Hi"
 """
+"""
+def remove(s):
+    return s.removesuffix('!')
+"""
 
 
 def remove(s):
