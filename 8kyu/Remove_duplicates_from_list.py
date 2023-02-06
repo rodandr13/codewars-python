@@ -4,6 +4,10 @@ and returns it as a result.
 
 The order of the sequence has to stay the same.
 """
+"""
+def distinct(seq):
+    return sorted(set(seq), key = seq.index)
+"""
 
 
 def distinct(seq):
