@@ -404,3 +404,5 @@
 - [Exclamation marks series #1: Remove an exclamation mark from the end of string](https://github.com/rodandr13/codewars/blob/main/8kyu/Exclamation_marks_series_1_Remove_an_exclamation_mark_from_the_end_of_string.py)
 - [Remove String Spaces](https://github.com/rodandr13/codewars/blob/main/8kyu/Remove_String_Spaces.py)
 - [N-th Power](https://github.com/rodandr13/codewars/blob/main/8kyu/N_th_Power.py)
+- [Remove duplicates from list](https://github.com/rodandr13/codewars/blob/main/8kyu/Merging_sorted_integer_arrays_without_duplicates.py)
+- [Is the string uppercase?](https://github.com/rodandr13/codewars/blob/main/8kyu/Is_the_string_uppercase.py)
