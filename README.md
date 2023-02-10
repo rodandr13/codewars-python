@@ -10,6 +10,8 @@
 - [Domain name validator](https://github.com/rodandr13/codewars/blob/main/5kyu/Domain_name_validator.py)
 - [Scramblies](https://github.com/rodandr13/codewars/blob/main/5kyu/Scramblies.py)
 - [Weight for weight](https://github.com/rodandr13/codewars/blob/main/5kyu/Weight_for_weight.py)
+- [Calculating with Functions](https://github.com/rodandr13/codewars/blob/main/5kyu/Calculating_with_Functions.py)
+- [Valid Parentheses](https://github.com/rodandr13/codewars/blob/main/5kyu/Valid_Parentheses.py)
 ### 6 kyu
 - [CamelCase Method](https://github.com/rodandr13/codewars/blob/main/6kyu/CamelCase_Method.py)
 - [Sum of Digits / Digital Root](https://github.com/rodandr13/codewars/blob/main/6kyu/Sum_of_Digits_Digital_Root.py)
